@@ -16,7 +16,7 @@ After studying law, I discovered my passion for software development and embarke
 
 ## My website
 
-Check out my website to learn more about my projects, background, and portfolio: [carolinepala.com](https://palacioscaroline.github.io/)
+Check out my website to learn more about my projects, background, and portfolio: [palacioscaroline.github.io](https://palacioscaroline.github.io/)
 
 ## Technical skills
 
