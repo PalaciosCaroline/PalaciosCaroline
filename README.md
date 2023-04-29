@@ -18,7 +18,7 @@ Check out my website to learn more about my projects, background, and portfolio:
 
 After studying law, I discovered my passion for software development and embarked on a career change. I am enthusiastic about solving complex problems and creating innovative solutions for users. I am currently looking for new opportunities to apply my development skills.
 
-### Skills 
+## Technical skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,8 +39,6 @@ After studying law, I discovered my passion for software development and embarke
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-## Technical skills
 
 - Programming languages: JavaScript, CSS, HTML, PHP
 - Frameworks and libraries: React, Bootstrap, Bulma, Jquery, Recharts
