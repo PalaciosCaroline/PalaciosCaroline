@@ -27,4 +27,4 @@ Check out my website to learn more about my projects, background, and portfolio:
 
 ## Get in touch
 
-- 📧 Email: [caroline.pala@email.com](mailto:caroline2807@yahoo.fr)
+- 📧 Email: [caroline2807@yahoo.fr](mailto:caroline2807@yahoo.fr)
