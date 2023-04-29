@@ -20,7 +20,7 @@ Check out my website to learn more about my projects, background, and portfolio:
 
 ## Technical skills
 
-- Programming languages: JavaScript, CSS, HTML
+- Programming languages: JavaScript, CSS, HTML, PHP
 - Frameworks and libraries: React, Bootstrap, Bulma, Jquery, Recharts
 - Databases: MySQL, MongoDB
 - Development tools: Git, GitHub, Visual Studio Code, jest, esLint, Postman
