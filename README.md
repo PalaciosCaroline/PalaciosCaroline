@@ -2,7 +2,7 @@
 
 👩‍💻 Passionate Developer
 
-🌱 Currently learning to become a software architect engineer
+🌱 Continually enhancing my skills
 
 📚 After Master's degree in Law and in the midst of a career change
 
