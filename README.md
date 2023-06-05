@@ -19,6 +19,11 @@ Check out my website to learn more about my projects, background, and portfolio:
 After studying law, I discovered my passion for software development and embarked on a career change. I am enthusiastic about solving complex problems and creating innovative solutions for users. I am currently looking for new opportunities to apply my development skills.
 
 ## Technical skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,redux,nodejs,express,nextjs,sass,styledcomponents,materialui,jest,babel,mongodb,mysql,php,bootstrap,jquery,figma,firebase,docker,postman,linux,wordpress" />
+  </a>
+</p>
 <p align="left">
 [<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>](url)
 [<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/PalaciosCaroline/PalaciosCaroline/icons/github.svg" width="36" height="36" alt="Git" /></a>](url)
