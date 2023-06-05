@@ -26,9 +26,9 @@ After studying law, I discovered my passion for software development and embarke
 </p>
 
 - Programming languages: JavaScript, CSS, HTML, PHP
-- Frameworks and libraries: React, Bootstrap, Bulma, Jquery, Recharts
+- Frameworks and libraries: React, React Native, Expressjs, Nextjs, Bootstrap, Bulma, Jquery, Recharts
 - Databases: MySQL, MongoDB
-- Development tools: Git, GitHub, Visual Studio Code, jest, esLint, Postman
+- Development tools: Git, GitHub, Visual Studio Code, jest, esLint, Postman, Expo
 
 ## Get in touch
 
